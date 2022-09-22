@@ -23,5 +23,3 @@ To run the API, ensure that you have first built it and then run ```java -jar ta
 
 To access this API's endpoint documentation, head to ```http://localhost:3000/booking/swagger-ui/index.html```. You can also find out the health of the application by accessing ```http://localhost:3000/booking/actuator/health```. Finally, to access the APIs logfiles, head to ```http://localhost:3000/booking/actuator/logfile```
 
-
-

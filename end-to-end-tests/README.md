@@ -12,3 +12,4 @@ To run RBP checks you will need to configure the following environmental variabl
 * SAUCE_ACCESS_KEY - If you are using `BROWSER = remote` then you will need to set `SAUCE_ACCESS_KEY` to the access key set in your Sauce labs account. You can find the access key here: [https://app.saucelabs.com/user-settings](https://app.saucelabs.com/user-settings)
 
 With your environmental variables set. Simply run `mvn clean test` to start the checks.
+
