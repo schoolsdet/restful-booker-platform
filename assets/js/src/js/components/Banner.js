@@ -52,8 +52,8 @@ const Banner = ({setWelcome}) => {
                         <br />
                         <p><span style={{fontWeight: "bold"}}>Get Started:</span> How you use this application is up to you, but here are a few things to get you started:</p>
                         <ul>
-                            <li>Explore the <a href="https://automationintesting.online" alt="Link to home page">home page</a></li>
-                            <li>Access the <a href="https://automationintesting.online/#/admin" alt="Link to admin page">admin panel</a> with the credentials admin/password</li>
+                            <li>Explore the <a href="https://restful-booker-platform.sdet.school" alt="Link to home page">home page</a></li>
+                            <li>Access the <a href="https://restful-booker-platform.sdet.school/#/admin" alt="Link to admin page">admin panel</a> with the credentials admin/password</li>
                             <li>You can <a href="https://github.com/mwinteringham/restful-booker-platform/projects/1" alt="Link to RBP project">read more about the features here</a></li>
                             <li>If you find a particularly bad bug, <a href="https://github.com/mwinteringham/restful-booker-platform/issues" alt="Bug tracker">feel free to raise it here</a></li>
                         </ul>

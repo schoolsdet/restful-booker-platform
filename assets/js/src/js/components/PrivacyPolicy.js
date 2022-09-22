@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
     return(
         <div>
             <h1>Privacy Policy Notice</h1>
-            <p>The policy: This privacy policy notice is for this website; https://automationintesting.online and served by MW Test Consultancy, 7 Sheridan Close, Norwich, Norfolk, NR8 6RW and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
+            <p>The policy: This privacy policy notice is for this website; https://restful-booker-platform.sdet.school and served by MW Test Consultancy, 7 Sheridan Close, Norwich, Norfolk, NR8 6RW and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
 
             <p>Policy key definitions:</p>
 
@@ -65,7 +65,7 @@ const PrivacyPolicy = () => {
 
             <ul>
                 <li><span style={{fontWeight: "bold"}}>CloudFlare</span> - Responsible for security and caching of the website</li>
-                <li><span style={{fontWeight: "bold"}}>Google Analytics</span> - Responsible tracking user interaction with automationintesting.online to help improve the experience of the application</li>
+                <li><span style={{fontWeight: "bold"}}>Google Analytics</span> - Responsible tracking user interaction with restful-booker-platform.sdet.school to help improve the experience of the application</li>
                 <li><span style={{fontWeight: "bold"}}>Custom cookies</span> - Responsible for enabling and disabling specific features within the application. These are not used for tracking user behaviour</li>
             </ul>
 
@@ -78,7 +78,7 @@ const PrivacyPolicy = () => {
             <h2>Sponsored links, affiliate tracking and commissions</h2>
             <p>Our website may contain adverts, sponsored and affiliate links on some pages. These are typically served through our advertising partners; Google Adsense, eBay Partner Network, Amazon Affiliates, or are self served through our own means. We only use trusted advertising partners who each have high standards of user privacy and security. However we do not control the actual adverts seen / displayed by our advertising partners. Our ad partners may collect data and use cookies for ad personalisation and measurement. Where ad preferences are requested as 'non-personalised' cookies may still be used for frequency capping, aggregated ad reporting and to combat fraud and abuse.</p>
 
-            <p>Clickable sponsored or affiliate links may be displayed as a website URL like this; www.automationintesting.online or as a titled text link like this: Sponsored by Test tool provider.</p>
+            <p>Clickable sponsored or affiliate links may be displayed as a website URL like this; www.restful-booker-platform.sdet.school or as a titled text link like this: Sponsored by Test tool provider.</p>
 
             <p>Clicking on any adverts, sponsored or affiliate links may track your actions by using a cookie saved to your device. You can read more about cookies on this website above. Your actions are usually recorded as a referral from our website by this cookie. In most cases we earn a very small commission from the advertiser or advertising partner, at no cost to you, whether you make a purchase on their website or not.</p>
 
