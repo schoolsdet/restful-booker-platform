@@ -410,7 +410,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/auth.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -432,7 +432,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/booking.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -454,7 +454,7 @@ jobs:
             key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
         - add_ssh_keys:
             fingerprints:
-              - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+              - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
         - run:
             command: |
               if [ -f /home/circleci/tmp/report.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -476,7 +476,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/room.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -498,7 +498,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/branding.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -520,7 +520,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/message.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
@@ -542,7 +542,7 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - add_ssh_keys:
           fingerprints:
-            - "81:51:4b:f9:45:9e:99:c0:10:70:eb:40:ba:a5:e4:e5"
+            - "af:11:00:4d:01:e2:ae:29:e3:91:1c:43:3c:5c:3f:dd"
       - run:
           command: |
             if [ -f /home/circleci/tmp/assets.txt ] && [ $CIRCLE_BRANCH == "trunk" ]; then
